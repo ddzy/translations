@@ -13,12 +13,14 @@
 | 【译】Web开发者应该知道的5个CSS小技巧              | [链接](https://yyge.top/blog/2021/02/03/%E3%80%90%E8%AF%91%E3%80%91Web%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%845%E4%B8%AACSS%E5%B0%8F%E6%8A%80%E5%B7%A7/)                                                 | [CSS](#css)               |
 | 【译】深度解析CSS是如何工作的                      | [链接](https://yyge.top/blog/2021/02/05/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90CSS%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84/)                                                                       | [CSS](#css)               |
 | 【译】理解CSS关键字：“Initial”，“Inherit”和“Unset” | [链接](https://yyge.top/blog/2021/02/20/%E3%80%90%E8%AF%91%E3%80%91%E7%90%86%E8%A7%A3CSS%E5%85%B3%E9%94%AE%E5%AD%97%EF%BC%9A%E2%80%9CInitial%E2%80%9D%EF%BC%8C%E2%80%9CInherit%E2%80%9D%E5%92%8C%E2%80%9CUnset%E2%80%9D/)                | [CSS](#css)               |
+| 【译】NormalizeCSS和ResetCSS，我该如何选择？       | [链接](https://yyge.top/blog/2021/02/22/%E3%80%90%E8%AF%91%E3%80%91NormalizeCSS%E5%92%8CResetCSS%EF%BC%8C%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%EF%BC%9F/)                                                               | [CSS](#css)               |
 
 ## CSS
 
 - [【译】Web开发者应该知道的5个CSS小技巧](https://yyge.top/blog/2021/02/03/%E3%80%90%E8%AF%91%E3%80%91Web%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%845%E4%B8%AACSS%E5%B0%8F%E6%8A%80%E5%B7%A7/)
 - [【译】深度解析CSS是如何工作的](https://yyge.top/blog/2021/02/05/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90CSS%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84/)
 - [【译】理解CSS关键字：“Initial”，“Inherit”和“Unset”](https://yyge.top/blog/2021/02/20/%E3%80%90%E8%AF%91%E3%80%91%E7%90%86%E8%A7%A3CSS%E5%85%B3%E9%94%AE%E5%AD%97%EF%BC%9A%E2%80%9CInitial%E2%80%9D%EF%BC%8C%E2%80%9CInherit%E2%80%9D%E5%92%8C%E2%80%9CUnset%E2%80%9D/)
+- [【译】NormalizeCSS和ResetCSS，我该如何选择？](https://yyge.top/blog/2021/02/22/%E3%80%90%E8%AF%91%E3%80%91NormalizeCSS%E5%92%8CResetCSS%EF%BC%8C%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%EF%BC%9F/)
 
 ## JavaScript
 
