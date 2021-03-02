@@ -14,6 +14,7 @@
 | 【译】深度解析CSS是如何工作的                      | [链接](https://yyge.top/blog/2021/02/05/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90CSS%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84/)                                                                       | [CSS](#css)               |
 | 【译】理解CSS关键字：“Initial”，“Inherit”和“Unset” | [链接](https://yyge.top/blog/2021/02/20/%E3%80%90%E8%AF%91%E3%80%91%E7%90%86%E8%A7%A3CSS%E5%85%B3%E9%94%AE%E5%AD%97%EF%BC%9A%E2%80%9CInitial%E2%80%9D%EF%BC%8C%E2%80%9CInherit%E2%80%9D%E5%92%8C%E2%80%9CUnset%E2%80%9D/)                | [CSS](#css)               |
 | 【译】NormalizeCSS和ResetCSS，我该如何选择？       | [链接](https://yyge.top/blog/2021/02/22/%E3%80%90%E8%AF%91%E3%80%91NormalizeCSS%E5%92%8CResetCSS%EF%BC%8C%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%EF%BC%9F/)                                                               | [CSS](#css)               |
+| 【译】深入讲解WebSockets                           | [链接](https://yyge.top/blog/2021/03/01/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%85%A5%E8%AE%B2%E8%A7%A3WebSockets/)                                                                                                                      | [HTTP](#http)             |
 
 ## CSS
 
@@ -33,6 +34,10 @@
 - [【译】React为何要使用链表遍历Fiber树](https://yyge.top/blog/2020/11/29/%E3%80%90%E8%AF%91%E3%80%91React%E4%B8%BA%E4%BD%95%E8%A6%81%E4%BD%BF%E7%94%A8%E9%93%BE%E8%A1%A8%E9%81%8D%E5%8E%86Fiber%E6%A0%91/)
 - [【译】使用requestIdleCallback](https://yyge.top/blog/2020/12/05/%E3%80%90%E8%AF%91%E3%80%91%E4%BD%BF%E7%94%A8requestIdleCallback/)
 - [【译】深度探索styled-components工作原理](https://yyge.top/blog/2020/12/15/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2styled-components%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/)
+
+## HTTP
+
+- [【译】深入讲解WebSockets](https://yyge.top/blog/2021/03/01/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%85%A5%E8%AE%B2%E8%A7%A3WebSockets/)
 
 ## Change Log
 

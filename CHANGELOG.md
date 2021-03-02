@@ -23,3 +23,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - 新增译文：[【译】NormalizeCSS和ResetCSS，我该如何选择？](https://yyge.top/blog/2021/02/22/%E3%80%90%E8%AF%91%E3%80%91NormalizeCSS%E5%92%8CResetCSS%EF%BC%8C%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%EF%BC%9F/)
+
+## [2021-3-2]
+
+### Added
+
+- 新增译文：[【译】深入讲解WebSockets](https://yyge.top/blog/2021/03/01/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%85%A5%E8%AE%B2%E8%A7%A3WebSockets/)
